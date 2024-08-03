@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/mdn/mdn-http-observatory/compare/v1.2.0...v1.2.1) (2024-08-03)
+
+
+### Miscellaneous
+
+* **types:** solidify type annotations, add tsc checks ([#56](https://github.com/mdn/mdn-http-observatory/issues/56)) ([fa09305](https://github.com/mdn/mdn-http-observatory/commit/fa093059da5f23a6d1f99a829136e75793d4f843))
+
 ## [1.2.0](https://github.com/mdn/mdn-http-observatory/compare/v1.1.0...v1.2.0) (2024-07-26)
 
 
